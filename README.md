@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishore645
-- 👀 I’m interested in ...to learn and work in IT
-- 🌱 I’m currently learning ... web Development
+- 👀 I’m interested to learn and work in IT
+- 🌱 I’m currently learning  web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
